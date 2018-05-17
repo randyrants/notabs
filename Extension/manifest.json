@@ -1,0 +1,22 @@
+{
+  "author": "RandyRants.com",
+  "description": "Opens new pages in a new window rather than in a tab",
+  "manifest_version": 2,
+  "name": "Edge with no tabs",
+  "version": "1.0.0.0",
+  "homepage_url": "https://github.com/randyrants/notabs",
+  "icons": {
+    "48": "icons/window-48.png",
+    "128": "icons/window-128.png",
+	"176": "icons/window-176.png"
+   },
+
+  "background": {
+    "persistent": true,
+    "page": "background.html"
+  },
+
+  "permissions": [
+    "tabs"
+  ]
+}
