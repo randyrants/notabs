@@ -11,7 +11,7 @@ This project is a pretty basic Edge Extension that is tasked with one simple job
 * Closes the newly created tab
 
 ## Where can I get the compiled version?
-I am actively attempting to get this Extension in to the Microsoft Store; I've published the source code for anyone else making an Edge Extension and is looking for a straightforward working example to learn from.
+You can find it in the Microsoft Store: https://www.microsoft.com/en-us/store/p/edgewithnotabs/9NGFHJ14514L
 
 ## What if I want to run a local version?
 I'm not going to get into how to build an APPX locally because that requires a lot of different utilities and keys and signing.  I did a quick search online and found a whole bunch of support docs on how to make APPX's and even Edge Extensions as APPX so you should be fine.  That said, Edge will allow to run an Extension even if it hasn't been bundled:
